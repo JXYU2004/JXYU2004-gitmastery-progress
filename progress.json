@@ -1,0 +1,45 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787244901.956315,
+    "completed_at": 1787244903.598882,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787244134.087077,
+    "completed_at": 1787244135.768049,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787243240.532885,
+    "completed_at": 1787243242.358049,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787243343.864842,
+    "completed_at": 1787243345.387935,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787243805.462978,
+    "completed_at": 1787243807.000866,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
