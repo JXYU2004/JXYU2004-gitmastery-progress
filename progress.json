@@ -258,5 +258,14 @@
       "The head commit should be the commit from Jan 11."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787273625.900114,
+    "completed_at": 1787273629.413474,
+    "comments": [
+      "The head commit should be the commit from Jan 11."
+    ],
+    "status": "Incomplete"
   }
 ]
