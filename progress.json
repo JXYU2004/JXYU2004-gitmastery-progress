@@ -393,14 +393,5 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1787574700.425719,
-    "completed_at": 1787574706.417197,
-    "comments": [
-      "Expected commit message of 'Fix phrasing of heading', got 'Mention feature for searching books' instead."
-    ],
-    "status": "Incomplete"
   }
 ]
