@@ -384,23 +384,5 @@
       "Great job using git branch to delete both merged and unmerged branches!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-docs",
-    "started_at": 1787558799.40103,
-    "completed_at": 1787558802.680569,
-    "comments": [
-      "You are missing the 'development' branch!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "mix-messy-docs",
-    "started_at": 1787558840.185212,
-    "completed_at": 1787558843.721304,
-    "comments": [
-      "You need to merge 'feature-search' first!"
-    ],
-    "status": "Incomplete"
   }
 ]
